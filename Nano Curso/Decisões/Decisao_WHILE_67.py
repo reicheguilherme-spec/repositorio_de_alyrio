@@ -5,3 +5,4 @@ while numero<67:
     numero=numero+1
 if numero == 67:
     print("SIX SEVEENN")
+
