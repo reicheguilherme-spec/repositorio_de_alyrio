@@ -4,7 +4,6 @@ if resposta.lower() in ["sim", "s"]:
         print("Olá, Mundo!")
         resposta2 = input("Deseja entrar novamente no programa?: ")
         if resposta2.lower() not in ["sim", "s"]:
-            continue
-        else:
+
             print("Interação finalizada!")
             break
